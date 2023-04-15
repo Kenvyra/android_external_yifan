@@ -1,0 +1,5 @@
+{
+    "name": "lmo",
+    "fetch": "https://github.com/LMODroid/platform_external_yifan",
+    "revision": "refs/heads/thirteen"
+}
